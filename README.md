@@ -41,3 +41,4 @@ uvicorn main:app --reload
 ## 10. TODO: create github action to deploy to gcp cloud run
 
 ## enjoy!
+zmian
